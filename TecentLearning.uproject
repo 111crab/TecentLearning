@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1C059D0E-47A0-42B6-7321-5C97399C1F8B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TecentLearning",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
